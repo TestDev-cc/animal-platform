@@ -6,7 +6,7 @@
 
 ![联系作者](https://skywalking-web.oss-cn-chengdu.aliyuncs.com/main-platform-fengfeiyezi.png)
 
-**这是作者的微信二维码，如需本项目源代码，可扫码或者VX:SkywalkingPro联系作者。**  
+**这是作者的微信二维码，如需本项目源代码，可扫码或者VX:cyddhao联系作者。**  
 
 ![微信二维码-1](https://skywalking-web.oss-cn-chengdu.aliyuncs.com/fengfeiyezi-QR-code.png)
 
@@ -65,7 +65,7 @@
 2. 适合作为初学者学习使用。
 3. 如果场景适合，可以作为商业使用。
 ### 联系作者
-#### 微信号: SkywalkingPro
+#### 微信号: cyddhao
 #### 系统演示地址:
 ```
 登录地址: https://www.skywalking.pro/animal-platform
@@ -314,7 +314,7 @@
 ####  **联系作者** 
 
 ![联系作者](https://skywalking-web.oss-cn-chengdu.aliyuncs.com/main-platform-fengfeiyezi.png)
-**这是作者的微信二维码，如需本项目源代码，可扫码或者VX:SkywalkingPro联系作者。**  
+**这是作者的微信二维码，如需本项目源代码，可扫码或者VX:cyddhao联系作者。**  
 
 ![微信二维码-1](https://skywalking-web.oss-cn-chengdu.aliyuncs.com/fengfeiyezi-QR-code.png)
 
